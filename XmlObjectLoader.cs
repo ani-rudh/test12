@@ -56,8 +56,7 @@ using System.IO;
                 val = new HashSet<string>();
 
 
-                int[] tri = new int[6];
-
+               
                 //int j=0;
                 int j = 0;
                 foreach (KeyValuePair<string, Dictionary<string, Dictionary<string, string>>> triangle in triangles)
@@ -92,25 +91,39 @@ using System.IO;
                         Debug.Log("X :" + coor["X"]);
                         Debug.Log("Y :" + coor["Y"]);
                         Debug.Log("Z :" + coor["Z"]);
+                        //adding the values to a hashset to not repeat the same values.
                         val.Add(tp);
                         j++;
-                        Debug.Log(tp+"00000000000000000000000000000000000000000");
-                    }
-                    Debug.Log(val.Count);
-
-                    Debug.Log("========The vertices of the face" + face.Key);
-
-                    foreach (var a in val)
-                    {
-                        Debug.Log(a);
+                        
+                        Debug.Log(tp+"---------------");
                     }
 
-                    Debug.Log("The number of the vertices in this face is " + val.Count);
-
-                    Debug.Log("--------- The End of the lIne");
-                    Debug.Log(j);
+                    
                 }
 
+
+                Debug.Log(val.Count);
+                Debug.Log("========The vertices of the face" + face.Key);
+                int l = 0;
+
+                Vector3[] Vertices_face = new Vector3[val.Count];
+                foreach (var a in val)
+                {
+
+                    Debug.Log(a);
+                    var c = a.Split('_');
+                    
+                    float X = float.Parse(c[0]);
+                    float Y = float.Parse(c[1]);
+                    float Z = float.Parse(c[2]);
+                    //we are getting the four vertices of the face
+                 
+                    Vertices_face[l] = new Vector3(X, Y, Z);
+
+                    l=l+1;
+                   
+                }
+                Debug.Log("The number of the vertices in this face is " + val.Count);
             }
 
 

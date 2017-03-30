@@ -1,0 +1,2575 @@
+<?xml version="1.0"?>
+<Shapes NumShapes="13">
+  <IfcWallStandardCase ID="162">
+    <Faces NumFaces="6">
+      <Face ID="1">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_0">
+                <X>-6915.67</X>
+                <Y>9870.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-14215.67</X>
+                <Y>9870.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-6915.67</X>
+                <Y>9870.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_1">
+                <X>-14215.67</X>
+                <Y>9870.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-6915.67</X>
+                <Y>9870.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-14215.67</X>
+                <Y>9870.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="2">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_3">
+                <X>-14215.67</X>
+                <Y>9870.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-14215.67</X>
+                <Y>9870.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_4">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-14215.67</X>
+                <Y>9870.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="3">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_4">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_6">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="4">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_7">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-6915.67</X>
+                <Y>9870.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-6915.67</X>
+                <Y>9870.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_0">
+                <X>-6915.67</X>
+                <Y>9870.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="5">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_6">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-14215.67</X>
+                <Y>9870.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-6915.67</X>
+                <Y>9870.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_3">
+                <X>-14215.67</X>
+                <Y>9870.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="6">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_1">
+                <X>-14215.67</X>
+                <Y>9870.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-6915.67</X>
+                <Y>9870.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_7">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-14215.67</X>
+                <Y>9870.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+    </Faces>
+  </IfcWallStandardCase>
+  <IfcWallStandardCase ID="230">
+    <Faces NumFaces="14">
+      <Face ID="1">
+        <Triangles NumTriangles="12">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_0">
+                <X>-6915.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-6915.67</X>
+                <Y>5967.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-6915.67</X>
+                <Y>6373.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_0">
+                <X>-6915.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-6915.67</X>
+                <Y>5967.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-6915.67</X>
+                <Y>5967.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="2">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_3">
+                <X>-6915.67</X>
+                <Y>5967.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-6915.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-6915.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="3">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_4">
+                <X>-6915.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-6915.67</X>
+                <Y>5967.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-6915.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="4">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_6">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-6915.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_8">
+                <X>-6915.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="5">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_0">
+                <X>-6915.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-6915.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="6">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_2">
+                <X>-6915.67</X>
+                <Y>6373.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-6915.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-6915.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="7">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_9">
+                <X>-6915.67</X>
+                <Y>6373.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-6915.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-6915.67</X>
+                <Y>6373.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="8">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_9">
+                <X>-6915.67</X>
+                <Y>6373.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-6915.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-6915.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="9">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_5">
+                <X>-6915.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_9">
+                <X>-6915.67</X>
+                <Y>6373.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-6915.67</X>
+                <Y>5967.15</Y>
+                <Z>915</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="10">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_8">
+                <X>-6915.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_10">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="11">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_10">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_8">
+                <X>-6915.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_11">
+                <X>-6915.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="2">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_4">
+                <X>-6915.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_12">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-6915.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_12">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-6915.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_13">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="3">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_5">
+                <X>-6915.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_14">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-6915.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_14">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-6915.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_12">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="4">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_7">
+                <X>-6915.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_15">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_8">
+                <X>-6915.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_15">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-6915.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_14">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="5">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_15">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_11">
+                <X>-6915.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_8">
+                <X>-6915.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_11">
+                <X>-6915.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_15">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_16">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="6">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_11">
+                <X>-6915.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_17">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_10">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_17">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_11">
+                <X>-6915.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_16">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="7">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_10">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_18">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_18">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_10">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_17">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="8">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_18">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-6915.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-6915.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_0">
+                <X>-6915.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_18">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_19">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="9">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_19">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-6915.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-6915.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_4">
+                <X>-6915.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_19">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_13">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="10">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_20">
+                <X>-7115.67</X>
+                <Y>6373.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+              <Vertice ID="vertex_9">
+                <X>-6915.67</X>
+                <Y>6373.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-6915.67</X>
+                <Y>6373.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_9">
+                <X>-6915.67</X>
+                <Y>6373.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_20">
+                <X>-7115.67</X>
+                <Y>6373.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+              <Vertice ID="vertex_21">
+                <X>-7115.67</X>
+                <Y>6373.15</Y>
+                <Z>915</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="11">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_21">
+                <X>-7115.67</X>
+                <Y>6373.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-6915.67</X>
+                <Y>5967.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_9">
+                <X>-6915.67</X>
+                <Y>6373.15</Y>
+                <Z>915</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_3">
+                <X>-6915.67</X>
+                <Y>5967.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_21">
+                <X>-7115.67</X>
+                <Y>6373.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_22">
+                <X>-7115.67</X>
+                <Y>5967.15</Y>
+                <Z>915</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="12">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_3">
+                <X>-6915.67</X>
+                <Y>5967.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_23">
+                <X>-7115.67</X>
+                <Y>5967.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-6915.67</X>
+                <Y>5967.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_23">
+                <X>-7115.67</X>
+                <Y>5967.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-6915.67</X>
+                <Y>5967.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_22">
+                <X>-7115.67</X>
+                <Y>5967.15</Y>
+                <Z>915</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="13">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_1">
+                <X>-6915.67</X>
+                <Y>5967.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+              <Vertice ID="vertex_20">
+                <X>-7115.67</X>
+                <Y>6373.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-6915.67</X>
+                <Y>6373.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_20">
+                <X>-7115.67</X>
+                <Y>6373.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-6915.67</X>
+                <Y>5967.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+              <Vertice ID="vertex_23">
+                <X>-7115.67</X>
+                <Y>5967.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="14">
+        <Triangles NumTriangles="12">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_17">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_15">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_18">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_15">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_17">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_16">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="2">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_14">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_18">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_15">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="3">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_14">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_19">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_18">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="4">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_14">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_20">
+                <X>-7115.67</X>
+                <Y>6373.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+              <Vertice ID="vertex_19">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="5">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_14">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_21">
+                <X>-7115.67</X>
+                <Y>6373.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_20">
+                <X>-7115.67</X>
+                <Y>6373.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="6">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_21">
+                <X>-7115.67</X>
+                <Y>6373.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_12">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_22">
+                <X>-7115.67</X>
+                <Y>5967.15</Y>
+                <Z>915</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="7">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_12">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_21">
+                <X>-7115.67</X>
+                <Y>6373.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_14">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="8">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_23">
+                <X>-7115.67</X>
+                <Y>5967.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+              <Vertice ID="vertex_19">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_20">
+                <X>-7115.67</X>
+                <Y>6373.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="9">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_22">
+                <X>-7115.67</X>
+                <Y>5967.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_19">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_23">
+                <X>-7115.67</X>
+                <Y>5967.15</Y>
+                <Z>1525</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="10">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_22">
+                <X>-7115.67</X>
+                <Y>5967.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_13">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_19">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="11">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_13">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_22">
+                <X>-7115.67</X>
+                <Y>5967.15</Y>
+                <Z>915</Z>
+              </Vertice>
+              <Vertice ID="vertex_12">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+    </Faces>
+  </IfcWallStandardCase>
+  <IfcWallStandardCase ID="263">
+    <Faces NumFaces="6">
+      <Face ID="1">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_0">
+                <X>-14215.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-14215.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_1">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-14215.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="2">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_3">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_4">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="3">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_4">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_6">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="4">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_7">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-14215.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-14215.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_0">
+                <X>-14215.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="5">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_6">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-14215.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_3">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="6">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_1">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-14215.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_7">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-7115.67</X>
+                <Y>4470.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>4000</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+    </Faces>
+  </IfcWallStandardCase>
+  <IfcDoor ID="393">
+    <Faces NumFaces="10">
+      <Face ID="1">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_0">
+                <X>-7140.67</X>
+                <Y>6636.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-7115.67</X>
+                <Y>7703.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-7140.67</X>
+                <Y>7703.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_1">
+                <X>-7115.67</X>
+                <Y>7703.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-7140.67</X>
+                <Y>6636.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-7115.67</X>
+                <Y>6636.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="2">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_4">
+                <X>-7140.67</X>
+                <Y>6636.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-7115.67</X>
+                <Y>6636.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-7140.67</X>
+                <Y>6636.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_3">
+                <X>-7115.67</X>
+                <Y>6636.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-7140.67</X>
+                <Y>6636.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-7115.67</X>
+                <Y>6636.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="3">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_6">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-7140.67</X>
+                <Y>6636.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-7140.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_4">
+                <X>-7140.67</X>
+                <Y>6636.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-7115.67</X>
+                <Y>6636.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="4">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_8">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-7140.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_9">
+                <X>-7140.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_7">
+                <X>-7140.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_8">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="5">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_10">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_9">
+                <X>-7140.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_11">
+                <X>-7140.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_9">
+                <X>-7140.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_10">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_8">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="6">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_12">
+                <X>-7140.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_10">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_11">
+                <X>-7140.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_10">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_12">
+                <X>-7140.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_13">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="7">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_14">
+                <X>-7115.67</X>
+                <Y>7703.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_12">
+                <X>-7140.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_15">
+                <X>-7140.67</X>
+                <Y>7703.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_12">
+                <X>-7140.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_14">
+                <X>-7115.67</X>
+                <Y>7703.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_13">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="8">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_1">
+                <X>-7115.67</X>
+                <Y>7703.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_15">
+                <X>-7140.67</X>
+                <Y>7703.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-7140.67</X>
+                <Y>7703.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_15">
+                <X>-7140.67</X>
+                <Y>7703.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-7115.67</X>
+                <Y>7703.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_14">
+                <X>-7115.67</X>
+                <Y>7703.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="9">
+        <Triangles NumTriangles="6">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_15">
+                <X>-7140.67</X>
+                <Y>7703.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_11">
+                <X>-7140.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-7140.67</X>
+                <Y>7703.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_11">
+                <X>-7140.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_15">
+                <X>-7140.67</X>
+                <Y>7703.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_12">
+                <X>-7140.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="2">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_9">
+                <X>-7140.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-7140.67</X>
+                <Y>7703.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_11">
+                <X>-7140.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="3">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_9">
+                <X>-7140.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-7140.67</X>
+                <Y>6636.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-7140.67</X>
+                <Y>7703.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="4">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_7">
+                <X>-7140.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-7140.67</X>
+                <Y>6636.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_9">
+                <X>-7140.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="5">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_0">
+                <X>-7140.67</X>
+                <Y>6636.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-7140.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-7140.67</X>
+                <Y>6636.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="10">
+        <Triangles NumTriangles="6">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_3">
+                <X>-7115.67</X>
+                <Y>6636.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_10">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-7115.67</X>
+                <Y>7703.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_3">
+                <X>-7115.67</X>
+                <Y>6636.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_8">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_10">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="2">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_3">
+                <X>-7115.67</X>
+                <Y>6636.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_8">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="3">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_6">
+                <X>-7115.67</X>
+                <Y>6712.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-7115.67</X>
+                <Y>6636.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-7115.67</X>
+                <Y>6636.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="4">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_10">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_14">
+                <X>-7115.67</X>
+                <Y>7703.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-7115.67</X>
+                <Y>7703.65</Y>
+                <Z>2210</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="5">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_14">
+                <X>-7115.67</X>
+                <Y>7703.65</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_10">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>2134</Z>
+              </Vertice>
+              <Vertice ID="vertex_13">
+                <X>-7115.67</X>
+                <Y>7627.65</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+    </Faces>
+  </IfcDoor>
+  <IfcWindow ID="558">
+    <Faces NumFaces="6">
+      <Face ID="1">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_0">
+                <X>-6950.67</X>
+                <Y>6310.15</Y>
+                <Z>978</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-6962.67</X>
+                <Y>6310.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-6950.67</X>
+                <Y>6310.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_1">
+                <X>-6962.67</X>
+                <Y>6310.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-6950.67</X>
+                <Y>6310.15</Y>
+                <Z>978</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-6962.67</X>
+                <Y>6310.15</Y>
+                <Z>978</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="2">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_1">
+                <X>-6962.67</X>
+                <Y>6310.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-6962.67</X>
+                <Y>6030.15</Y>
+                <Z>978</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-6962.67</X>
+                <Y>6030.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_4">
+                <X>-6962.67</X>
+                <Y>6030.15</Y>
+                <Z>978</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-6962.67</X>
+                <Y>6310.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-6962.67</X>
+                <Y>6310.15</Y>
+                <Z>978</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="3">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_5">
+                <X>-6962.67</X>
+                <Y>6030.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-6950.67</X>
+                <Y>6030.15</Y>
+                <Z>978</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-6950.67</X>
+                <Y>6030.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_6">
+                <X>-6950.67</X>
+                <Y>6030.15</Y>
+                <Z>978</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-6962.67</X>
+                <Y>6030.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-6962.67</X>
+                <Y>6030.15</Y>
+                <Z>978</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="4">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_6">
+                <X>-6950.67</X>
+                <Y>6030.15</Y>
+                <Z>978</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-6950.67</X>
+                <Y>6310.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-6950.67</X>
+                <Y>6030.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_2">
+                <X>-6950.67</X>
+                <Y>6310.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-6950.67</X>
+                <Y>6030.15</Y>
+                <Z>978</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-6950.67</X>
+                <Y>6310.15</Y>
+                <Z>978</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="5">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_4">
+                <X>-6962.67</X>
+                <Y>6030.15</Y>
+                <Z>978</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-6950.67</X>
+                <Y>6310.15</Y>
+                <Z>978</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-6950.67</X>
+                <Y>6030.15</Y>
+                <Z>978</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_0">
+                <X>-6950.67</X>
+                <Y>6310.15</Y>
+                <Z>978</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-6962.67</X>
+                <Y>6030.15</Y>
+                <Z>978</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-6962.67</X>
+                <Y>6310.15</Y>
+                <Z>978</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="6">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_2">
+                <X>-6950.67</X>
+                <Y>6310.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-6962.67</X>
+                <Y>6030.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-6950.67</X>
+                <Y>6030.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_5">
+                <X>-6962.67</X>
+                <Y>6030.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-6950.67</X>
+                <Y>6310.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-6962.67</X>
+                <Y>6310.15</Y>
+                <Z>1462</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+    </Faces>
+  </IfcWindow>
+  <IfcSlab ID="596">
+    <Faces NumFaces="6">
+      <Face ID="1">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_0">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_1">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="2">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_4">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_2">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="3">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_6">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_4">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="4">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_1">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_7">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="5">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_2">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_6">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_5">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_6">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_2">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+              <Vertice ID="vertex_1">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>0</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+      <Face ID="6">
+        <Triangles NumTriangles="2">
+          <Triangle ID="0">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_7">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+              <Vertice ID="vertex_0">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+              <Vertice ID="vertex_4">
+                <X>-7115.67</X>
+                <Y>9670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+          <Triangle ID="1">
+            <Vertices NumVertices="3">
+              <Vertice ID="vertex_0">
+                <X>-14215.67</X>
+                <Y>9670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+              <Vertice ID="vertex_7">
+                <X>-7115.67</X>
+                <Y>4670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+              <Vertice ID="vertex_3">
+                <X>-14215.67</X>
+                <Y>4670.15</Y>
+                <Z>-400</Z>
+              </Vertice>
+            </Vertices>
+          </Triangle>
+        </Triangles>
+      </Face>
+    </Faces>
+  </IfcSlab>
+</Shapes>
